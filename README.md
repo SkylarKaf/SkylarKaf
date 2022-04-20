@@ -19,15 +19,15 @@
 ---
 
 <p align="center">
+  <a href="https://github.com/SkylarkAf"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SkylarkAf&theme=tokyonight&layout=compact" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/SkylarkAf"><img src="https://github-readme-stats.vercel.app/api?username=SkylarkAf&theme=tokyonight&show_icons=true" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/SkylarkAf"><img src="https://github-readme-streak-stats.herokuapp.com?user=SkylarkAf&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
-</p>
-  
-<p align="center">
-  <a href="https://github.com/SkylarkAf"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SkylarkAf&theme=tokyonight&layout=compact" /></a>
 </p>
   
 <p align="center">
