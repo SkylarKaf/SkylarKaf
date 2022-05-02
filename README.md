@@ -1,15 +1,20 @@
-## Hi there 👋 I'm Andik/SkylarkAf!
+### Hi there 👋 I'm Andik/SkylarkAf!
 
 <a href="https://github.com/SkylarkAf"><img src="https://cardivo.vercel.app/api?name=Andik Febriansyah&description=Hi, i'm Skylarkaf Nice to meet you and i'm just newbie&image=https://telegra.ph/file/b15cfdc4ad323112c0e99.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@skylarkaf_&github=SkylarkAf&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
 [<img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/6282331660134?text=Hi+👋)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/skylarkaf_)
 
 ### 🤠 &nbsp;Personal
-- 💻 I'm currently learning `JavaScript`
-- 💻 I'm currently learning `Python`
+💻 I'm currently learning 
+<ul>
+ <li>html</li>
+ <li>css</li>
+ <li>JavaScript</li>
+ <li>Python</li>
+</ul>
+<br>
 
-
-### ⚙ &nbsp;GitHub Analytics
+###  ⚙ &nbsp;GitHub Analytics
 
 ---
 
