@@ -7,8 +7,8 @@
 ### 🤠 &nbsp;Personal
 💻 I'm currently learning 
 <ul>
- <li>html</li>
- <li>css</li>
+ <li>Html</li>
+ <li>Css</li>
  <li>JavaScript</li>
  <li>Python</li>
 </ul>
