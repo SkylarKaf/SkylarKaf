@@ -7,8 +7,6 @@
 ### 🤠 &nbsp;Personal
 💻 I'm currently learning 
 <ul>
- <li>Html</li>
- <li>Css</li>
  <li>JavaScript</li>
  <li>Python</li>
 </ul>
@@ -16,10 +14,6 @@
 ###  ⚙ &nbsp;GitHub Analytics
 
 ---
-
-<p align="center">
-  <a href="https://github.com/SkylarkAf"><img src="https://github-profile-trophy.vercel.app/?username=SkylarkAf&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
-</p>
 
 <p align="center">
   <a href="https://github.com/SkylarkAf"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SkylarkAf&theme=tokyonight&layout=compact" /></a>
