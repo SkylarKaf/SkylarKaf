@@ -7,8 +7,8 @@
 ### 🤠 &nbsp;Personal
 💻 I'm currently learning 
 <ul>
- <li>JavaScript</li>
- <li>TypeScript</li>
+ <li> JavaScript</li>
+ <li> TypeScript</li>
 </ul>
 
 ###  ⚙ &nbsp;GitHub Analytics
