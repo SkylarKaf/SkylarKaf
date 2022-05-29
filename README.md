@@ -8,7 +8,7 @@
 💻 I'm currently learning 
 <ul>
  <li>JavaScript</li>
- <li>Python</li>
+ <li>TypeScript</li>
 </ul>
 
 ###  ⚙ &nbsp;GitHub Analytics
