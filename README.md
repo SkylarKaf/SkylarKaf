@@ -6,10 +6,10 @@
 
 ### 🤠 &nbsp;Personal
 💻 I'm currently learning 
-<ul>
- <li> JavaScript</li>
- <li> TypeScript</li>
-</ul>
+ <li> python
+ <li> JavaScript
+ <li> TypeScript
+
 
 ###  ⚙ &nbsp;GitHub Analytics
 
