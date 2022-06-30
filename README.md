@@ -6,12 +6,9 @@
 
 ### 🤠 &nbsp;Personal
 💻 I'm currently learning 
- <li> python
+ <li> Python
  <li> JavaScript
  <li> TypeScript
-
-
-###  ⚙ &nbsp;GitHub Analytics
 
 ---
 
@@ -21,8 +18,4 @@
 
 <p align="center">
   <a href="https://github.com/SkylarKaf"><img src="https://github-readme-stats.vercel.app/api?username=SkylarKaf&theme=tokyonight&show_icons=true" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/SkylarKaf"><img src="https://github-readme-streak-stats.herokuapp.com?user=SkylarKaf&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
