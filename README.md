@@ -1,14 +1,16 @@
 ### Hi there 👋 I'm Andik/SkylarKaf!
 
-<a href="https://github.com/SkylarKaf"><img src="https://cardivo.vercel.app/api?name=Andik Febriansyah&description=Hi, i'm SkylarKaf. Nice to meet you and i'm just newbie programer interested in the back end, but i want to be full stack dev :) &image=https://telegra.ph/file/6cf2e94a9f6caccfa95b8.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@skylarkaf_&github=SkylarKaf&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
+<img align="center" height="auto" src="https://telegra.ph/file/71ad7fa7c8a19686e1618.jpg"/>
+
 [<img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/6282331660134?text=Hi+👋)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/skylarkaf_)
 
-### 🤠 &nbsp;Personal
-💻 I'm currently learning 
- <li> Python
- <li> JavaScript
- <li> TypeScript
+---
+
+### Languages
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 
 ---
 
